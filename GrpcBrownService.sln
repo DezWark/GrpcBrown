@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcBrownService", "GrpcBrownService\GrpcBrownService.csproj", "{29C6041D-52B1-49D9-B321-3687931BDB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcBrounClient", "GrpcBrounClient\GrpcBrounClient.csproj", "{33F30D6B-B267-4E54-8962-9C2528B964EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C6041D-52B1-49D9-B321-3687931BDB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C6041D-52B1-49D9-B321-3687931BDB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C6041D-52B1-49D9-B321-3687931BDB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C6041D-52B1-49D9-B321-3687931BDB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F30D6B-B267-4E54-8962-9C2528B964EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F30D6B-B267-4E54-8962-9C2528B964EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F30D6B-B267-4E54-8962-9C2528B964EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F30D6B-B267-4E54-8962-9C2528B964EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
